@@ -1,0 +1,12 @@
+.gradle/
+build/
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.kotlin/
+local.properties
+.env
+*.log
+crawl-output/
